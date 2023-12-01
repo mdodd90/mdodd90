@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike Dodd.
-- 👀 I’m interested in OOP, functional programming, cryptocurrency && smart contract development, and contributing to open source.
-- 🌱 I’m currently learning java and elixir programming languages, as well as microservice build/release using kubernetes (k8s).
-- 💞️ I’m looking to collaborate on cryptocurrency && smart contract development projects.
+- 👀 OOP, functional programming, real-time app development, REST API development, blockchain && smart contract development, AI/ML, and finance.
+- 🌱 Seasoned developer in java and elixir programming languages.
+- 💞️ I’m looking to collaborate and learn with the open source community.
 - 📫 How to reach me: mdodd_17@yahoo.com
 
 <!---
