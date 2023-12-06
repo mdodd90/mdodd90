@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike Dodd.
+- 👋 Hi, I’m Michael Dodd.
 - 👀 OOP, functional programming, real-time app development, REST API development, blockchain && smart contract development, AI/ML, and finance.
 - 🌱 Seasoned developer in java and elixir programming languages.
 - 💞️ I’m looking to collaborate and learn with the open source community.
